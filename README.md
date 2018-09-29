@@ -40,4 +40,3 @@ If you don't have Python installed, navigate to Python's [website](https://www.p
 
 ## License
 This application has no license.
-# P5-Restaurant-Reviews-App-Stage-1
