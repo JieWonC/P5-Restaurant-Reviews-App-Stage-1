@@ -25,9 +25,13 @@ This is a 5th project of Udacity's Front-End Web Developer Nanodegree (FEND). Co
 $ git clone https://github.com/JieWonC/P5-Restaurant-Reviews-App-Stage-1.git
 ```
 2. From inside the new directory, launch a local client server using Python from your terminal:
-Python 2: `python -m SimpleHTTPServer 8000`
-Python 3: `python3 -m http.server 8000` or `py -3 -m http.server 8000`
+
+> Python 2: `python -m SimpleHTTPServer 8000`
+
+> Python 3: `python3 -m http.server 8000` or `py -3 -m http.server 8000`
+
 If you don't have Python installed, navigate to Python's [website](https://www.python.org/) to download and install the software.
+
 3. Visit the site in your browser at `http://localhost:8000`
 
 ## Resources
